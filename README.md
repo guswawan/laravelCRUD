@@ -12,6 +12,7 @@
  ```
     * $ git clone
     * $ php artisan serve
+    * import db_laravelcrud
     * route to /students
   ```
     
